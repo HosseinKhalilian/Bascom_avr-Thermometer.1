@@ -7,7 +7,7 @@
 
 
 ### This repository is Digital Thermometer .
-This is a digital thermometer with an MCU, measuring the temperature in range of -55 to 99 °C with a resolution of 1 °C .As the temperature sensor an integrated circuit LM35 is used.. The temperature is displayed on a 2 digit seven-segment LED display without positive or negative sign.
+This is a digital thermometer with an MCU, measuring the temperature in range of -55 to 99 °C with a resolution of 1 °C .As the temperature sensor an integrated circuit LM35 is used.. The temperature is displayed on a 2 digit seven-segment LED display without any sign.
 
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
